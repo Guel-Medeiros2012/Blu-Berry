@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    
+    }
+    
+    #logo{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: rgb(23, 38, 122);
+        font-size: 40px;
+    }
